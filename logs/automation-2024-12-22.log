@@ -1,0 +1,78 @@
+11:26:08.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:26:46.786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:27:22.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:27:58.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:28:53.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:29:25.858 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:30:52.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:31:07.455 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:31:07.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:31:40.889 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:34:39.645 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:35:39.482 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:36:25.719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:37:17.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:37:19.930 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:37:20.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:37:20.448 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:37:20.450 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:37:21.722 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:37:21.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+13:21:31.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+13:21:35.323 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+13:21:35.457 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:21:35.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:21:35.776 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+13:21:36.900 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+13:21:36.934 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+13:46:21.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+13:46:21.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+13:46:26.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+13:46:26.820 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+13:46:26.864 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:46:27.018 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:46:27.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:46:27.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+13:46:27.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:46:27.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+13:46:28.898 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+13:46:28.937 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+13:46:29.006 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+13:46:29.057 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+13:46:31.160 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest started....*****
+13:46:31.292 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest started....*****
+13:46:43.877 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] D:\Learn Software Testing\LearnSelenium\OpenCartV121\test-output\Suite\Test.html (Access is denied)

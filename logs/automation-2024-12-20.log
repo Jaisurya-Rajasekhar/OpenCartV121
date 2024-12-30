@@ -1,0 +1,54 @@
+11:07:22.470 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:11:06.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+11:11:12.435 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:11:12.555 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:11:12.906 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:11:12.908 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:11:14.038 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:11:14.069 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:14:34.764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:14:44.606 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:14:44.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:14:45.065 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:14:45.067 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:14:46.282 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:14:46.320 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:14:48.601 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:14:48.708 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:14:49.119 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:14:49.121 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:14:50.193 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:14:50.243 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:14:56.547 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:14:56.799 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:14:57.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:14:57.164 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:14:58.119 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:14:58.138 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:16:12.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\crossbrowsertesting.xml
+
+11:16:15.182 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:16:15.265 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:16:15.471 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:16:15.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:16:15.969 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:16:15.971 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:16:16.094 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:16:16.096 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:16:17.715 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:16:17.750 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:16:17.969 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:16:18.034 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:16:19.976 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:16:20.226 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:16:20.560 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:16:20.560 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:16:21.590 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:16:21.608 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****

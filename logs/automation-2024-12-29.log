@@ -1,0 +1,60 @@
+12:28:14.084 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Ended....*****
+10:21:11.584 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+10:21:16.242 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:21:17.720 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:21:17.738 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:21:28.596 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:21:28.599 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:21:40.011 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:21:40.014 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:21:50.875 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:21:50.875 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:23:17.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\master.xml
+
+10:23:21.780 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:23:23.160 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:23:23.178 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:23:34.080 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:23:34.083 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:23:45.023 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:23:45.026 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+10:23:55.861 [main] INFO  testCases.TC003_LoginDDT - *****End of TC003_LoginDDT*****
+10:23:55.863 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT*****
+11:32:41.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\grid-docker.xml
+
+11:32:45.313 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:32:45.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:32:45.940 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:32:45.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:32:47.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:32:47.502 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:32:48.925 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest started....*****
+11:32:50.379 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Ended....*****
+11:33:41.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\grid-docker.xml
+
+11:33:43.897 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:33:44.154 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:33:45.205 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:33:45.207 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:33:46.629 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:33:46.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:33:48.234 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest started....*****
+11:33:49.840 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Ended....*****
+11:33:50.510 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:34:17.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Learn Software Testing\LearnSelenium\OpenCartV121\grid-docker.xml
+
+11:34:20.237 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+11:34:20.458 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:34:20.945 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:34:20.947 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+11:34:22.489 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation expected message...
+11:34:22.544 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+11:34:26.323 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest started....*****
+11:34:27.653 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Ended....*****
+11:34:32.705 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
